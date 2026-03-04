@@ -1,2 +1,2 @@
 # itmd-361-testrepo
-test repo for demo use in march 4 2026 
+this is my repo for ITMD 361
